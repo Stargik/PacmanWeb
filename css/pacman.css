@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+#container {
+    position: fixed;
+    /*top: 50%;*/
+    left: 10%;
+    /* transform: translate(-50%,-50%); */
+    transform: translate(40%, 0%);
+}
+
+#massage-container{
+    font-size: 70px;
+}
+
+#screen {
+    margin-top:20px;
+}
+
+#nav-container{
+    text-align: center;
+}
